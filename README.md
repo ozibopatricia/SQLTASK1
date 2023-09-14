@@ -1,6 +1,6 @@
 # SQL-TASK1
 ## INTRODUCTION
-## I created a database in other to successful complete my task on SQL
+## I created a database in order to successfully complete my task on SQL
 ## PROBLEM STATEMENTS
 - Create a database named STAFF
 - Create two different tables named STAFF_INFO and STAFF_SALARY
