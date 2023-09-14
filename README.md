@@ -9,6 +9,9 @@
 
   which should include (ID,NAME,AGE,DOE,CONTRACT_DURATION) and (ID,SALARY,YEARLY_INCREMENT) respectively
 - Use 4 different CONSTRAINTS including PRIMARY_KEY and FOREIGN_KEY on both table
+
+![](STAFFINFOTABLENCODE.PNG)
+
 - Create 10 rows of information into both STAFF_INFO and STAFF_SALARY table
 
   ![](STAFFINFO10ROWS.PNG)
