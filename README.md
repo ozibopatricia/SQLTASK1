@@ -1,8 +1,7 @@
 # SQL-TASK1
 ## INTRODUCTION
-## I created a database in order to successfully complete my task on SQL
-## PROBLEM STATEMENT
-### For this task , it is required that the database be named "STAFF".
+## CREATION OF DATABASE IN SQL
+### For this task, it is required that the database be named "STAFF".
 ### Also, in the database, two different tables should be created, named STAFF_INFO and STAFF_SALARY
 
 ![](STAFFINFOANDSTAFFSALARYTABLE.PNG)
@@ -18,7 +17,7 @@
 
 ![](STAFFSALARY10ROWS.PNG)
 
-## "SELECT" command
+## "SELECT" COMMAND
 ### After the creation of the tables, it is required that the information of specific columns be retrieved using the "SELECT" command.
 ### ie the ID and SALARY of staffs from STAFF_salary table
 
@@ -29,4 +28,4 @@
   ![]((NAMEANDAGE).PNG)
 
 ## CONCLUSION
-### To enhance ones knowledge with the basic commands in SQL
+### To enhance ones knowledge with the use of basic commands in SQL
